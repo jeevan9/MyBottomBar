@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/Bottombaritemone"
+    android:icon="@drawable/a1"
+    android:title="People">
+
+
+</item>
+
+    <item
+        android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/a2"
+        android:title="Cards">
+
+
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/a3"
+        android:title="Phone">
+
+
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/a4"
+        android:title="Mails">
+
+
+    </item>
+    <item
+        android:id="@+id/Bottombaritemfive"
+        android:icon="@drawable/a5"
+        android:title="Favourites">
+
+
+    </item>
+
+
+</menu>
